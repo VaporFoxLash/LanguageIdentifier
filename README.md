@@ -24,6 +24,11 @@ index: The index of the dataset entry.
 lang_id: The language tag of the predicted language.
 The submission file should have a header row, and each row should correspond to a unique index in the dataset.
 
+## Cloning the repo
+```
+git clone https://github.com/VaporFoxLash/LanguageIdentifier
+```
+
 ## Libraries and Installation
 To run this notebook, the following libraries are required:
 
