@@ -6,7 +6,7 @@ South Africa is known for its rich linguistic diversity, with 11 official langua
 
 The challenge in this hackathon is to determine the language of a given text written in any of South Africa's official languages. This task is a form of language identification in the field of natural language processing (NLP).
 
-![South Africa Languages](https://github.com/VaporFoxLash/LanguageIdentifier/blob/main/assets/South_Africa_languages_2011.jpg)
+![South Africa Languages](https://github.com/VaporFoxLash/LanguageIdentifier/blob/master/assets/South_Africa_languages_2011.jpg)
 
 
 ## Evaluation Metric
