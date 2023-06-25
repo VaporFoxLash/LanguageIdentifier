@@ -6,6 +6,9 @@ South Africa is known for its rich linguistic diversity, with 11 official langua
 
 The challenge in this hackathon is to determine the language of a given text written in any of South Africa's official languages. This task is a form of language identification in the field of natural language processing (NLP).
 
+![South Africa Languages](https://github.com/VaporFoxLash/LanguageIdentifier/blob/main/assets/South_Africa_languages_2011.jpg)
+
+
 ## Evaluation Metric
 The evaluation metric for this competition is the Mean F1-Score. The F1 score, commonly used in information retrieval, combines the precision and recall statistics to measure accuracy. Precision is the ratio of true positives (tp) to all predicted positives (tp + fp), while recall is the ratio of true positives to all actual positives (tp + fn). The F1 score is calculated as follows:
 
@@ -53,3 +56,7 @@ Install the required libraries using the provided installation instructions.
 Ensure that the dataset and necessary files are accessible in the appropriate paths or directories.
 Run the notebook cells sequentially to train models, perform evaluations, and generate predictions.
 Adjust the hyperparameters, feature selection, or model architecture as needed.
+
+
+## References
+
