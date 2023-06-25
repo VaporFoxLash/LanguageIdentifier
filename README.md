@@ -8,6 +8,7 @@ The challenge in this hackathon is to determine the language of a given text wri
 
 ![South Africa Languages](https://github.com/VaporFoxLash/LanguageIdentifier/blob/master/assets/South_Africa_languages_2011.jpg)
 
+[Image credit](https://bilingua.io/how-to-say-hello-in-100-languages)
 
 ## Evaluation Metric
 The evaluation metric for this competition is the Mean F1-Score. The F1 score, commonly used in information retrieval, combines the precision and recall statistics to measure accuracy. Precision is the ratio of true positives (tp) to all predicted positives (tp + fp), while recall is the ratio of true positives to all actual positives (tp + fn). The F1 score is calculated as follows:
