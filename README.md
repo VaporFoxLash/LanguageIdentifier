@@ -59,4 +59,9 @@ Adjust the hyperparameters, feature selection, or model architecture as needed.
 
 
 ## References
+https://en.wikipedia.org/wiki/Languages_of_South_Africa
+https://southafrica-info.com/arts-culture/11-languages-south-africa/
+https://www.ajol.info/index.php/salas
+https://www.tomedes.com/translator-hub/south-africa-languages
+https://www.cambridge.org/core/books/abs/language-in-south-africa/south-africa-a-sociolinguistic-overview/D79E61150FBC1CE67864320F758E799C
 
